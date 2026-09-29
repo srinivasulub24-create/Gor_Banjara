@@ -1,0 +1,6 @@
+{
+  "name": "Banjara Matrimony",
+  "description": "Trusted matrimonial and community platform for the Banjara community with secure verification, discovery, and connections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
